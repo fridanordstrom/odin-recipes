@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(53, 53, 53);
+    color: antiquewhite;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:visited {
+    color: rgb(171, 208, 240);
+}
