@@ -2,15 +2,45 @@
     font-family: Verdana, Tahoma, sans-serif;
 }
 
-body {
+html {
     background-color: rgb(53, 53, 53);
+}
+
+body {
+    max-width: 700px;
+    background-color: rgb(104, 97, 97);
     color: antiquewhite;
+    margin: 60px auto;
+    padding: 40px 30px;
 }
 
 a {
     color: aliceblue;
 }
 
+h1 {
+    text-align: center;
+}
+
 a:visited {
     color: rgb(171, 208, 240);
 }
+
+ul {
+    margin: 0 auto;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+ul:last-child {
+    margin-bottom: 0;
+}
+
+img {
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+}
+
